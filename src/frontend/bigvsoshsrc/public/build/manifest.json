@@ -1,0 +1,11 @@
+{
+  "src/app.postcss": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "src/app.postcss"
+  },
+  "style.css": {
+    "file": "assets/style-3e24b780.css",
+    "src": "style.css"
+  }
+}
